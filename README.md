@@ -1,3 +1,9 @@
+## Forked from 
+
+```
+https://github.com/zubairehman/flutter-boilerplate-project.git
+```
+
 # Boilerplate Project
 
 A boilerplate project created in flutter using MobX and Provider.
@@ -13,7 +19,7 @@ The Boilerplate contains the minimal implementation required to create a new lib
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/zubairehman/flutter-boilerplate-project.git
+https://github.com/angel-r/flutter-boilerplate-project
 ```
 
 **Step 2:**
